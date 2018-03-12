@@ -2814,3 +2814,4 @@
 - [Legendahkiin](https://github.com/Legendahkiin/)
 - [David Mayes](https://github.com/David-Mayes)
 - [Avinash Tomar](https://github.com/avistomar)
+- [Ted James](https://github.com/iCloudsInMyCoffee)
